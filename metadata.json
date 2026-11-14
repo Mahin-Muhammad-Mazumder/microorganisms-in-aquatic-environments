@@ -1,0 +1,6 @@
+{
+  "name": "Microorganisms in Aquatic Environments",
+  "description": "15-scene interactive 3D WebGL educational simulation exploring aquatic microbiology, vertical zonation, physicochemical gradients, and biogeochemical cycles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
