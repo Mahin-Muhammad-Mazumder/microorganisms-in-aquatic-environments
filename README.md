@@ -98,7 +98,7 @@ so no server runtime or API key is required for this interactive simulation.
 
 To publish a new version, push to `main` and monitor the **Deploy AquaMicrobe 3D
 to GitHub Pages** workflow in the repository's Actions tab. The public site is:
-<https://mahin-muhammad-mazumder.github.io/microorganisms-in-aquatic-environments/>.
+<https://github.com/Mahin-Muhammad-Mazumder/microorganisms-in-aquatic-environments/>.
 
 For a local production check, run:
 
